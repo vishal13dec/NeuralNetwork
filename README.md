@@ -47,3 +47,4 @@ For the development of Neural Network application, number of software corporatio
                          5. Numpy by BSD
                          
 Over the course of time I would dealing in detail of how the Neural Network works using Numpy .
+Reference Link : https://www.youtube.com/watch?v=JN6H4rQvwgY
