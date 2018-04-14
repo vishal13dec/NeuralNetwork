@@ -17,7 +17,7 @@ NeuralNetwork is a mathematical nonlinear function approximator.
                 Y is a Output        (Matrix of 1*1)
  Mathematically , the image can be written as :
  
-            # X.W = Y
+ #        Activation_function(X.W) = Y
 
 ## Application : It's application is very wide and solve the complex problems.
               Following are some of the scalable applications where it is very extensively used :
