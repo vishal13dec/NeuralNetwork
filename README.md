@@ -27,7 +27,8 @@ NeuralNetwork is a mathematical nonlinear function approximator.
                         2. Calculus
                                 a. Chain Rule of Differentiation
                                 
-# For the development of Neural Network application, number of software corporations around the world has offered their libraries in languages like PYTHON , C++ , R , JAVA. However , python language remains the most popular within AI community due to its simplicity and ease of use .Some of the most popular DEEP NEURAL NETWORK frameworks are :
+# Popular Frameworks & Libraries :
+For the development of Neural Network application, number of software corporations around the world has offered their libraries in languages like PYTHON , C++ , R , JAVA. However , python language remains the most popular within AI community due to its simplicity and ease of use .Some of the most popular DEEP NEURAL NETWORK frameworks are :
                          1. Tensorflow by GOOGLE
                          2. Theano by BSD
                          3. PYTorch by Facebook
