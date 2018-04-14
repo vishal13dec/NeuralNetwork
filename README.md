@@ -13,7 +13,8 @@ NeuralNetwork is a mathematical nonlinear function approximator.
 <img src = 'https://i.stack.imgur.com/gzrsx.png' width = "500" height="400"> 
 
                 X is a set of inputs.
-                W is a Weights. It is a unknown value which we derive using NeuralNetwork.
+                W is a Weights. 
+                Y is a Output
 
 ## Application : It's application is very wide and solve the complex problems.
               Following are some of the scalable applications where it is very extensively used :
