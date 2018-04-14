@@ -26,7 +26,11 @@ Backpropgation is the process of deriving the updated weights and biases based o
 The non-linearity in neural network is introduced using the Activation function.
 
 Linear function are function which are unidirectional with uniform slope. They do have highest 1 degree polynomial.
+
 Non-Linear function are function which are having varying slope i.e their direction varies with the value of input after sometime .
+
+Please refer to follwong Khan Academy link for more idea :
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/v/linear-and-nonlinear-functions-example-3
 
 
 
