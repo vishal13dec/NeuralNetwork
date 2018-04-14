@@ -5,6 +5,9 @@
               4. Layers
               5. Activation function
               6. Loss Function
+              7. Expected Output
+              
+<img src = 'https://i.stack.imgur.com/VqOpE.jpg' width = '400' height='300'>
 
 ### The entire data processing in Neural Network can be classified into two steps :
              1.  Forward Propogation
