@@ -16,6 +16,7 @@ NeuralNetwork is a mathematical nonlinear function approximator.
                 W is a Weights.      (Matrix of 3*1)
                 Y is a Output        (Matrix of 1*1)
  Mathematically , the image can be written as :
+ 
             # X.W = Y
 
 ## Application : It's application is very wide and solve the complex problems.
