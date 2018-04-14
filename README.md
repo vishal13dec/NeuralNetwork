@@ -10,6 +10,8 @@ NeuralNetwork is a mathematical model which tries to follow the working of human
 # Mathematical Definition :
 NeuralNetwork is a mathematical nonlinear function approximator.
 
+<img src = 'https://i.stack.imgur.com/gzrsx.png' width = "500" height="500"> 
+
 ## Application : It's application is very wide and solve the complex problems.
               Following are some of the scalable applications where it is very extensively used :
                         1. Google Speech To Text
